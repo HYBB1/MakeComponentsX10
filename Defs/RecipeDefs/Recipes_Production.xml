@@ -45,6 +45,9 @@
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
+	<recipeUsers>
+			<li>ComponentAssemblyBench</li>
+	</recipeUsers>
     <workAmount>9000</workAmount>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <ingredients>
@@ -82,6 +85,9 @@
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
+	<recipeUsers>
+			<li>ComponentAssemblyBench</li>
+	</recipeUsers>
     <workAmount>18000</workAmount>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <ingredients>
