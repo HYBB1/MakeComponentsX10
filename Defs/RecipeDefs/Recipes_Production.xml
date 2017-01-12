@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <RecipeDefs>
   <RecipeDef>
     <defName>MakeComponent</defName>
@@ -45,6 +45,9 @@
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
+	<recipeUsers>
+			<li>ComponentAssemblyBench</li>
+	</recipeUsers>
     <workAmount>27000</workAmount>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <ingredients>
@@ -82,7 +85,10 @@
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
-    <workAmount>44000</workAmount>
+	<recipeUsers>
+			<li>ComponentAssemblyBench</li>
+	</recipeUsers>
+    <workAmount>42000</workAmount>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <ingredients>
       <li>
